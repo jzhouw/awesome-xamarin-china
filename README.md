@@ -3,5 +3,6 @@
 
 受[awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)启发
 
+* [WeChat iOS SDK Binding] (https://github.com/lokinfey/WeChatSDK)
 * [佳博打印机Android SDK Binding](https://github.com/jamesatgithub/GPrinterDroidBinding)
 
